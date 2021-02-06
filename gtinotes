@@ -1,0 +1,26 @@
+working area        staging     localRepo     RemoteRepo    :
+  -----------        -------      ---------     ---------  
+  Untracked files     git add     git commit    git push 
+    red                green     
+
+   git log 
+
+   git add . or git add *
+
+   which command displays all git commits? git log    
+
+   git push command
+
+   git remote add eb  https://github.com/myLandmarckeTechnologies/ebay-backend.git
+   
+   git remote -v 
+
+   git remote add <ALIAS name><url-RR>
+   git push eb master
+
+   git push https://github.com/myLandmarckeTechnologies/ebay-backend.git  
+            DNS = Alias 
+   eb =  https://github.com/myLandmarckeTechnologies/ebay-backend.git  
+
+  Retrospect  meeting 
+
